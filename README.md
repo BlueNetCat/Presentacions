@@ -2,6 +2,8 @@
 En aquest repositori trobareu les presentacions que s'ha realitzat durant el projecte específicament sobre la valorització de dades.
 
 ## 2022
+- **Data services on the frame of the BlueNetCat network**. 5 de Juliol. Presentat a "Transferring and Capitalisation Event for Spain and Portugal" - MEDOSMOSIS PROJECT. Autoritat Portuària de València, València. [Enllaç](./PresentacioMEDOSMOSIS_Llorach_5July2022.pdf).
+
 - **Serveis de dades en el marc de la Xarxa Marítima de Catalunya**. 14 de Juny. Presentat a la "Jornada sobre l'intercanvi de dades per la governança i la seguretat marítima" - SHAREMED / MEDOSMOSIS. ICM, Barcelona. [Enllaç](./PresentacioJornadaICM14Juny2022.pptx).
 
 ## 2021
